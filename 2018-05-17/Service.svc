@@ -1,0 +1,5 @@
+﻿<%@ ServiceHost 
+    Language="C#" 
+    Debug="true" 
+    Service="_2018_05_17.EFCode.Service" 
+    CodeBehind="Service.svc.cs" %>
