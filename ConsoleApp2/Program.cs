@@ -18,6 +18,7 @@ namespace ConsoleApp2
                 Console.WriteLine(id);
                 Product p = c.GetProduct(id);
                 Console.WriteLine(p.ProductName);
+                ////////////////////
             }
         }
     }
